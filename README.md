@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+ <img src ="https://badge.mediaplus.ma/greenbinary/hfegrach">
+</p>
 <!--
 **HanFeg-42/HanFeg-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
